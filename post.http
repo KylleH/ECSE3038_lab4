@@ -1,0 +1,8 @@
+post  http://127.0.0.1:8000/tank 
+content-type: application/json
+
+{
+    "location": " department",
+    "lat": 201.004741066082236,
+    "long": -76.74875280426826
+  }
