@@ -1,9 +1,9 @@
 # LAB4
 
-##@app.get("/profile")
+## @app.get("/profile")
 ###  teaches us about css colours
 
-##@app.post("/profile")
+## @app.post("/profile")
 
 ###    teaches about the css colours and date time
 
