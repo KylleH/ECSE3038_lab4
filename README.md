@@ -1,11 +1,10 @@
 # LAB4
 
 ## @app.get("/profile")
-###  teaches us about css colours
+  teaches us about css colours
 
 ## @app.post("/profile")
-
-###    teaches about the css colours and date time
+  teaches about the css colours and date time
 
 ## @ app.post("/tank") add_person:a test to look through http status to provide a message more accurate than 200 in this case 201 and the use of mongo db _id and bson
 
