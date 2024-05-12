@@ -1,9 +1,0 @@
-POST https://kylle-iot.onrender.com/update
-Content-Type: application/json
-
-{
-  "temperature": 29.3,
-  "presence": true,
-  "datetime": "2023-02-23T18:22:28"
-}
-
