@@ -1,8 +1,8 @@
-post  http://127.0.0.1:8000/tank 
-content-type: application/json
+POST https://iot-smarthub.onrender.com/update
+Content-Type: application/json
 
 {
-    "location": " department",
-    "lat": 201.004741066082236,
-    "long": -76.74875280426826
-  }
+  "temperature": 29.3,
+  "presence": true,
+  "datetime": "2023-02-23T18:22:28"
+}
