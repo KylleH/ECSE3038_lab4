@@ -17,7 +17,7 @@ db = client.tank_man
 app = FastAPI()
 
 origins=[
-    "https://iot-smarthub.onrender.com",
+    "https://kylle-iot.onrender.com",
     "http://localhost:8000",
     "https://simple-smart-hub-client.netlify.app"]
 
